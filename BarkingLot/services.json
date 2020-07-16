@@ -1,0 +1,30 @@
+[
+    {
+        "id": "brush",
+        "name": "Light grooming",
+        "description": "Does your dog look scruffy? Of course it does – it's a dog! We'll tease out the worst tangles with only a small amount of biting.",
+        "price": 20,
+        "duration": 900
+    },
+    {
+        "id": "washnbrush",
+        "name": "Wash 'n' brush",
+        "description": "No matter how much your dog has been rolling around in the mud, we have just the right shampoo to make them smell clean. Mostly.",
+        "price": 50,
+        "duration": 1800
+    },
+    {
+        "id": "clip",
+        "name": "Full clip",
+        "description": "If you're sick of having dog hair scattered around your house, bring your dog to us and we'll make them look like a movie star. (Only available for pugs who look a bit like Steve Buscemi.)",
+        "price": 80,
+        "duration": 4000
+    },
+    {
+        "id": "fancy",
+        "name": "Fancy clip",
+        "description": "Want to become Instagram famous? Sure you do, and there's no faster way than getting your perfect pooch carefully clipped to look like Chewbacca.",
+        "price": 160,
+        "duration": 6000
+    },
+]

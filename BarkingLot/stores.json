@@ -1,0 +1,110 @@
+[
+    {
+        "id": "SFC",
+        "name": "San Francisco Central",
+        "address": "1699 Market St, San Francisco",
+        "location": {
+            "latitude": 37.772506,
+            "longitude": -122.422705
+        }
+    },
+    {
+        "id": "SFN",
+        "name": "San Francisco North",
+        "address": "277 Beach St, San Francisco",
+        "location": {
+            "latitude": 37.807584,
+            "longitude": -122.413219
+        }
+    },
+    {
+        "id": "BPE",
+        "name": "Balboa Park Excelsior",
+        "address": "1800 San Jose Avenue, San Francisco",
+        "location": {
+            "latitude": 37.728890,
+            "longitude": -122.440470
+        }
+    },
+    {
+        "id": "MLB",
+        "name": "Millbrae",
+        "address": "111 Park Pl, Millbrae",
+        "location": {
+            "latitude": 37.613370,
+            "longitude": -122.405160
+        }
+    },
+    {
+        "id": "BLG",
+        "name": "Burlingame",
+        "address": "1130 Chula Vista Ave, Burlingame",
+        "location": {
+            "latitude": 37.586750,
+            "longitude": -122.363270
+        }
+    },
+    {
+        "id": "SMT",
+        "name": "San Mateo",
+        "address": "1870 S Norfolk St, San Mateo",
+        "location": {
+            "latitude": 37.555230,
+            "longitude": -122.292880
+        }
+    },
+    {
+        "id": "BLM",
+        "name": "Belmont",
+        "address": "111 Industrial Rd #7, Belmont",
+        "location": {
+            "latitude": 37.521545,
+            "longitude": -122.266030
+        }
+    },
+    {
+        "id": "RWC",
+        "name": "Redwood City",
+        "address": "55 Fifth Ave F, Redwood City",
+        "location": {
+            "latitude": 37.468214,
+            "longitude": -122.208585
+        }
+    },
+    {
+        "id": "SJC",
+        "name": "San Jose",
+        "address": "1356 S De Anza Blvd, San Jose",
+        "location": {
+            "latitude": 37.299021,
+            "longitude": -122.030885
+        }
+    },
+    {
+        "id": "PAL",
+        "name": "Palo Alto",
+        "address": "885 Commercial St, Palo Alto",
+        "location": {
+            "latitude": 37.422657,
+            "longitude": -122.100527
+        }
+    },
+    {
+        "id": "MTV",
+        "name": "Mountain View",
+        "address": "1350 Grant Rd #12, Mountain View",
+        "location": {
+            "latitude": 37.377386,
+            "longitude": -122.076858
+        }
+    },
+    {
+        "id": "SCL",
+        "name": "Santa Clara",
+        "address": "2373 Pruneridge Ave #4, Santa Clara",
+        "location": {
+            "latitude": 37.330231,
+            "longitude": -121.962964
+        }
+    }
+]
